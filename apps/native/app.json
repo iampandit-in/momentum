@@ -45,6 +45,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "0e431a9a-b7ef-483d-af07-2366b6698c05"
+      }
+    },
+    "owner": "iampandit.in"
   }
 }
